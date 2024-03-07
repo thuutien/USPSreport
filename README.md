@@ -1,1 +1,1 @@
-# USPSReport will generate pse files from USPS EVS report to excel file.
+# USPSReport will conver pse files from USPS EVS report to excel file.
